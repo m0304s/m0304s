@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=m0304s&theme=vue&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0304s&exclude_repo=m0304s&layout=compact&theme=vue" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0304s&exclude_repo=m0304s&layout=compact&theme=vue" width="35%" />
 </a>
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
