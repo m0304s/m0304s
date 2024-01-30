@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms8955)](https://solved.ac/cms8955/)
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=m0304s&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
