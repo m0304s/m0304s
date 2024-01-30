@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0304s&include_all_commits=true&theme=vue&hide_border=true&count_private=true)](https://github.com/m0304s/github-readme-stats)
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white"> 
+    <img src="https://img.shields.io/badge/C-#596CAF?style=for-the-badge&logo=C&logoColor=white"> 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
