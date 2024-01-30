@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms8955)](https://solved.ac/cms8955/)
-![](./profile-3d-contrib/profile-green-animate.svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m0304s&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
