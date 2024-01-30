@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0304s&exclude_repo=m0304s&layout=compact&theme=vue" width="32%" />
 </a>
 
-[![Minseok's github activity graph](https://activity-graph.herokuapp.com/graph?username=m0304s&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Minseok's github activity graph](https://activity-graph.herokuapp.com/graph?username=m0304s&theme=nord)]
 
 
 ## 🔨 Once I've used 🔨
