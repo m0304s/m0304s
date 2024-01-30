@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0304s&exclude_repo=m0304s&layout=compact&theme=vue" width="32%" />
 </a>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=m0304s&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Minseok's github activity graph](https://activity-graph.herokuapp.com/graph?username=m0304s&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/C-596CAF?style=for-the-badge&logo=C&logoColor=white"> 
