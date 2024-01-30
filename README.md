@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minseok's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 [![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0304s&include_all_commits=true&theme=vue&hide_border=true&count_private=true)](https://github.com/m0304s/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=m0304s&theme=vue&show_icons=true" width="42%" />
+</a>
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/C-596CAF?style=for-the-badge&logo=C&logoColor=white"> 
