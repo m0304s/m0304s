@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0304s&exclude_repo=m0304s&layout=compact&theme=vue" width="32%" />
 </a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms8955)](https://solved.ac/cms8955/)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m0304s&custom_title=Minseok's%20Contribution%20Graph&hide_border=true&theme=vue)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
@@ -41,14 +40,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=black"> 
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typeScript&logoColor=black"> 
     <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualStudioCode&logoColor=white"> 
     <img src="https://img.shields.io/badge/eclipseIDE-2C2255?style=for-the-badge&logo=eclipseIDE&logoColor=white"> 
-    <br>
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
 </div><br>
