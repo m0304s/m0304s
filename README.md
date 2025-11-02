@@ -21,25 +21,4 @@ Here are some ideas to get you started:
 </a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms8955)](https://solved.ac/cms8955/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cms8955&theme=cold)
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/C-596CAF?style=for-the-badge&logo=C&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/postgreSQL-F24C53?style=for-the-badge&logo=postgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=black"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typeScript&logoColor=black"> 
-    <br>
-    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualStudioCode&logoColor=white"> 
-    <img src="https://img.shields.io/badge/eclipseIDE-2C2255?style=for-the-badge&logo=eclipseIDE&logoColor=white"> 
-</div><br>
+
