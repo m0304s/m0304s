@@ -12,7 +12,7 @@ Even under limited time and resources, I continue to improve systems and collabo
 
 **📚 [RAG-EXTENSION](https://github.com/m0304s/RAG-EXTENSION) : PDF, DOCX, XLSX, TXT, 이미지 기반 멀티모달 문서 검색을 지원하는 엔터프라이즈 RAG 플랫폼**
 
-**🦺 [WatchOut](https://github.com/m0304s/watchout) : 웹, 모바일, 웨어러블을 지원하는 건설현장 AI 안전 관제 플랫폼**
+**🦺 [WatchOut](https://github.com/WatchOut-Construct/watchout) : 웹, 모바일, 웨어러블을 지원하는 건설현장 AI 안전 관제 플랫폼**
 
 **🎤 [Re:View](https://github.com/m0304s/review-ai-interview-project) : WebRTC, LLM 질문 생성, 답변 분석을 결합한 AI 기반 면접 코칭 서비스**
 
