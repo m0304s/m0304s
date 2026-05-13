@@ -10,6 +10,8 @@ Even under limited time and resources, I continue to improve systems and collabo
 
 ## ⚙️ Projects
 
+**🛡️ [DeepFence](https://github.com/m0304s/DeepFence) : 실시간 네트워크 패킷을 분석하고, CatBoost 기반 침입 탐지 모델을 이용해 이상 트래픽을 탐지·판단·기록하는 네트워크 보안 모니터링 플랫폼**
+
 **📚 [RAG-EXTENSION](https://github.com/m0304s/RAG-EXTENSION) : PDF, DOCX, XLSX, TXT, 이미지 기반 멀티모달 문서 검색을 지원하는 엔터프라이즈 RAG 플랫폼**
 
 **🦺 [WatchOut](https://github.com/WatchOut-Construct/watchout) : 웹, 모바일, 웨어러블을 지원하는 건설현장 AI 안전 관제 플랫폼**
