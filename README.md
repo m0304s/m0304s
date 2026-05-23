@@ -26,7 +26,7 @@ Even under limited time and resources, I continue to improve systems and collabo
 ## 🏆 Awards
 🥉 삼성 청년 SW AI 아카데미 13기 프로젝트 전시발표회: **입상** (2025.12)
 
-🥇 삼성 청년 SW AI 아카데미 13기 3차 프로젝트 HEBEES: **최우수상** (2025.11)
+🥇 삼성 청년 SW AI 아카데미 13기 3차 프로젝트 RAG-EXTENSION: **최우수상** (2025.11)
 
 🥈 삼성 청년 SW AI 아카데미 13기 2차 프로젝트 WatchOut: **우수상** (2025.10)
 
