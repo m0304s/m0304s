@@ -41,7 +41,7 @@ Even under limited time and resources, I continue to improve systems and collabo
 | 기관 | 소속 | 기간 | 역할 |
 | :--- | :--- | :--- | :--- |
 | 멀티캠퍼스 | 삼성 청년 SW AI 아카데미 14기 | 2026.01 ~ 현재 | 프로젝트 실습코치 |
-| SSAFY | 삼성 청년 SW AI 아카데미 13기 | 2025.01 ~ 2025.12 | 교육생 |
+| 멀티캠퍼스 | 삼성 청년 SW AI 아카데미 13기 | 2025.01 ~ 2025.12 | 교육생 |
 | 부경대학교 | 정보 및 데이터베이스 연구실(IDBLAB) | 2023.08 ~ 2025.02 | 학부연구생 |
 
 
