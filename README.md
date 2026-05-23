@@ -18,7 +18,7 @@ Even under limited time and resources, I continue to improve systems and collabo
 
 **🎤 [Re:View](https://github.com/m0304s/review-ai-interview-project) : WebRTC, LLM 질문 생성, 답변 분석을 결합한 AI 기반 면접 코칭 서비스**
 
-**⚾ [Yaguhang](https://github.com/m0304s/Yaguhang_BE) : 관광 데이터를 기반으로 KBO 야구 팬을 위한 여행 정보를 제공하는 웹서비스**
+**⚾ [야구행](https://github.com/m0304s/Yaguhang_BE) : 관광 데이터를 기반으로 KBO 야구 팬을 위한 여행 정보를 제공하는 웹서비스**
 
 **🎮 [WAG](https://github.com/pknu-wap/WAG) : Kafka 기반 이벤트 스트리밍 구조로 고도화한 실시간 미니게임 플랫폼**
 
