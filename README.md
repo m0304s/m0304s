@@ -72,6 +72,3 @@ Even under limited time and resources, I continue to improve systems and collabo
 
 ## 연락처
 - Email: [gd10080008@gmail.com](mailto:gd10080008@gmail.com)
-- Solved.ac: [cms8955](https://solved.ac/cms8955/)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms8955)](https://solved.ac/cms8955/)
